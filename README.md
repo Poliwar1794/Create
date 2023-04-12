@@ -9,7 +9,7 @@
     <br><br>
 </h1>
 
-<p>Hello</p>
+<p>Hello guys!</p>
 
 <p>Welcome to Create, a mod offering a variety of tools and blocks for Building, Decoration, and Aesthetic Automation.</p>
 <p>The added elements of tech are designed to leave as many design choices to the player as possible. With Create, the game isn't played inside a bunch of UIs, it challenges you to set up contraptions of animated components working together in many possible arrangements.</p>
