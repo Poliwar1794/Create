@@ -1709,6 +1709,7 @@
 	"create.display_source.redstone_power.progress_bar": "Progress Bar",
 	"create.display_source.boiler.not_enough_space": "Not enough space ",
 	"create.display_source.boiler.for_boiler_status": "for Boiler Status",
+  "create.display_source.computer_display_source": "From Computer",
 
 	"create.display_target.line": "Line %1$s",
 	"create.display_target.page": "Page %1$s",
@@ -1753,6 +1754,8 @@
 
 	"enchantment.create.capacity.desc": "Increases Backtank air capacity.",
 	"enchantment.create.potato_recovery.desc": "Potato Cannon projectiles have a chance to be reused.",
+  "create.gui.attached_computer.controlled": "This device is being controlled by a computer",
+  "create.gui.attached_computer.hint": "To use device manually, disconnect all computers and modems",
 
 
 	"_": "->------------------------]  Subtitles  [------------------------<-",
